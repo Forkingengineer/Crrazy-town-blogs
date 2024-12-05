@@ -2,7 +2,7 @@
 
 A G-News alike web application template, featuring view pager with gesture, popup context menu, search page, bookmarks.  
 Implemented as Progressive Web App, with background service worker and other optimizations.  
-Suitable both for desktop and mobile.
+Suitable  for desktop and mobile.
 
 Based on [zuix.js Web Starter](https://zuixjs.github.io/zuix-web-starter/) and [zuix.js HTML-PWA](#), this web application
 is implemented as a static site with `markdown` and `liquid` templates using [11ty](https://11ty.dev) engine.
